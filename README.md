@@ -5,7 +5,7 @@ IT Head at Arniko International SS & College
 --------------------------------------------
 
 * 🌍  I'm based in Nepal
-* ✉️  You can contact me at [prabin.shrestha@arniko.ed.np](mailto:prabin.shrestha@arniko.ed.np)
+* ✉️  You can contact me at [prabin.shrestha@arniko.edu.np](mailto:prabin.shrestha@arniko.ed.np)
 <!--
 **prabinarniko/prabinarniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
